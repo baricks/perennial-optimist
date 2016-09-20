@@ -1,0 +1,34 @@
+.App {
+  background-color: #f6f6f6;
+  height: 120vh;
+  width: 100vw;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.App-logo {
+  font-size: 30px;
+}
+
+.App-header {
+  background-color: #E2E2E2;
+  text-align: center;
+  height: 110px;
+  padding: 30px;
+  color: black;
+  font-size: 15px;
+}
+
+.App-intro {
+  font-size: 15px;
+  padding: 30px 50px;
+}
+
+.App-intro .box {
+  width: 50vw;
+  height:5vh;
+}
+
+.update {
+  font-size: 20px;
+  font-weight: 200;
+}
